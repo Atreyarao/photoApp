@@ -16,4 +16,7 @@ URL: https://admiring-morse-9d50d9.netlify.app/
 Search by location,names,etc: ✔  
 
 
-# Images
+# Images  
+![alt text](https://github.com/Atreyarao/photoApp/blob/main/Images/Capture.PNG)  
+
+![alt text](https://github.com/Atreyarao/photoApp/blob/main/Images/Capture1.PNG)
